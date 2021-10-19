@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Personal Care Services for Senior ",
+        "name": "Personal Care for Senior ",
         "description": "Our personal caregivers offer assistance with activities such as, Personal grooming, bathing, toileting, and hygiene tasks, Mobility and transfers, Medication reminders and monitoring, Companionship, Light housekeeping, meal planning, and meal preparation,Shopping and errands ",
         "price": 100,
         "image": "https://i.ibb.co/XLY7ZtX/img3.png "
@@ -29,7 +29,7 @@
     },
     {
         "id": 5,
-        "name": "After Surgery Special Care Services ",
+        "name": "After Surgery Special Care",
         "description": " Our after surgery special care services are specially designed to provide additional assistance to enhance your loved one’s independence.",
         "price": 160,
         "image": " https://i.ibb.co/Cb834GB/pexels-kampus-production-7551683.jpg"
